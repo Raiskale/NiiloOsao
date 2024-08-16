@@ -1,3 +1,25 @@
 .background {
-   background-color: blue;
-}
+   height: 100vh; /* Full viewport height */
+   background: linear-gradient(to right,  #0076dc, #000a61);
+
+ }
+
+ .top-line {
+   width: 100%;
+   margin-top: 40px;
+   height: 2px; 
+   background-color: #000; 
+   position: fixed;
+   top: 0;
+   background-color: rgba(0, 0, 0, 0.1); 
+   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1); 
+   left: 0;
+   
+   border-radius: 1px; 
+   
+ }
+ .header{
+   width: 100%;
+   margin-top: 40px;
+   position: fixed;
+ }

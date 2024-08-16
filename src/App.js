@@ -1,16 +1,15 @@
-
 import './App.css';
 
 function App() {
-return(
+  return (
     <main className="background">
+      <div className="top-line"></div>
+      
+      <div className="top-line"></div>
+      
+    </main>
     
-
-  </main>
-  
-)
-
-  
+  );
 }
 
 export default App;

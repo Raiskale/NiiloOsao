@@ -11,3 +11,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.gradient-background {
+  background: radial-gradient(circle, #ff7e5f, #feb47b);
+}
